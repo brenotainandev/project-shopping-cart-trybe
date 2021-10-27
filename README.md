@@ -9,7 +9,7 @@ Nesse projeto:
 - Utilizar conhecimentos sobre JavaScript, CSS e HTML;
 - Trabalhar com funções assíncronas;
 - Implementar testes unitários.
-- 
+
 ## Requisitos do projeto
 
 - [x] 1 - Crie uma listagem de produtos
